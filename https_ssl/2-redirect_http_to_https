@@ -47,5 +47,5 @@ frontend emmanuel-frontend-https
 
 backend emmanuel-backend
         balance roundrobin
-        server 6238-web-01 54.196.216.8:80 check
-        server 6238-web-02 98.80.15.59:80 check
+        server 6231-web-01 18.234.84.75:80 check
+        server 6231-web-02 3.95.57.8:80 checkk
